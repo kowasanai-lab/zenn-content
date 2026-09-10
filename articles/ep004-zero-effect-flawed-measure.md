@@ -3,7 +3,7 @@ title: "効果ゼロ、と出た。ゼロしか出ない測り方だった"
 emoji: "📉"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["claudecode", "ai", "自動化", "個人開発"]
-published: false
+published: true
 ---
 
 この記事はnoteの連載『壊さない自動化ラボ』からの転載です。連載一覧: https://note.com/kowasanai_lab

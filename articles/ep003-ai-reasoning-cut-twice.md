@@ -3,7 +3,7 @@ title: "AIの推理を、二度斬った夜"
 emoji: "⚔️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["claudecode", "ai", "自動化", "個人開発"]
-published: false
+published: true
 ---
 
 この記事はnoteの連載『壊さない自動化ラボ』からの転載です。連載一覧: https://note.com/kowasanai_lab

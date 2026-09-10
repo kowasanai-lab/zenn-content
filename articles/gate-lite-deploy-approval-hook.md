@@ -3,7 +3,7 @@ title: "Claude Codeの本番デプロイを、承認なしでは実行できな�
 emoji: "🚧"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["claudecode", "ai", "セキュリティ", "hook", "devops"]
-published: false
+published: true
 ---
 
 Claude Code（または同様のAIコーディングエージェント）に本番環境の操作を任せていると、いつか必ず考えることになる。

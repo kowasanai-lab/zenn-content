@@ -68,4 +68,7 @@ EPISODE 002
 
 この記事の元記事: https://note.com/kowasanai_lab/n/n5e23cee17a59
 
-実装の全コードを載せた有料の実装編もnoteにあります。
+実装の全コードを載せた有料の実装編（全7本）もnoteにあります。この回に一番近いのは「機械の関所」の回です。
+https://note.com/kowasanai_lab/n/n97c49424fb76
+
+連載・実装編の一覧: https://note.com/kowasanai_lab

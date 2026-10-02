@@ -69,7 +69,10 @@ EPISODE 006
 『機械の関所』の全コードはこちらで無料公開しています（MITライセンス・そのまま使えます）。
 https://github.com/kowasanai-lab/gate-lite
 
-実装の全コードを載せた有料の実装編もあります → https://note.com/kowasanai_lab
+実装の全コードを載せた有料の実装編（全7本）もnoteにあります。この回に一番近いのは「出版の関所」の回です。
+https://note.com/kowasanai_lab/n/n065a9bf7f560
+
+連載・実装編の一覧: https://note.com/kowasanai_lab
 
 ---
 
